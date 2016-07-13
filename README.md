@@ -11,9 +11,11 @@ Mi celas konstrui Klaku nur per PHP, Ajax, jQuery, HTML5 kaj CSS3. Dum la venont
 
 Kodumuloj bonvenon.
 
-|_|0|_|__
-|_|_|0|__
-|0|0|0|__
+|_|0|_|
+
+|_|_|0|
+
+|0|0|0|
 
 
 joan@riseup.net
