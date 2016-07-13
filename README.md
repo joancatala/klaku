@@ -1,5 +1,12 @@
-# klaku
+# Bonan tagon
 Jen la kodo de la Demokratia Amaskomunikilo Klaku
+
+# Klaku.net
+Klaku estas socia retejo 2.0, kiu ebligas al la uzantoj publikigi artikolojn en la paĝaro; la ceteraj uzantoj voĉdonas por la kontribuoj aŭ alklakas ilin laŭ taksado de graveco aŭ intereso.
+
+La 27-an de junio 2007 naskiĝis Klaku.net por esti informa centro-punkto por la esperanta blogaro.
+
+Por pliaj informoj, bonvolu legi https://eo.wikipedia.org/wiki/Klaku
 
 # Situacio
 
