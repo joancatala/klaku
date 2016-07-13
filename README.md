@@ -11,7 +11,8 @@ Mi celas konstrui Klaku nur per PHP, Ajax, jQuery, HTML5 kaj CSS3. Dum la venont
 
 Kodumuloj bonvenon.
 
-```|_|0|_|
+```
+|_|0|_|
 |_|_|0|
 |0|0|0|
 ```
